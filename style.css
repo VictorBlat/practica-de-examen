@@ -1,8 +1,53 @@
-nav{
-    text-align: center;
-    background-color: black;
-}
-a.valencia:hover{
-    color: black;
+
+div.valencia{
+    position: relative;
+    width: 33%;
+    text-align:center;
+    display: inline-block;
     background-color: yellow;
+
+
+}
+div.Madrid{
+    position: relative;
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+    background-color: brown;
+
+}
+div.Barcelona{
+    position: relative;
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+    background-color: lightblue;
+
+}
+img.pagina2{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 20%;
+    top: 5px;
+}
+img.formulario{
+    position: relative;
+    width: 250px;
+    height: 150px;
+    left: 65%;
+    top: -140px;
+}
+img.grao{
+    position: relative;
+    width: 700px;
+    height: 250px;
+    left: 30%;
+    top: -15px;
+}
+footer.footer{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    width: 100%;
 }
